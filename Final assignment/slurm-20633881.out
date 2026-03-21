@@ -1,0 +1,3 @@
+FATAL:   while setting environment: while processing .env: while processing .env: while evaluating environment script: could not execute "HF_TOKEN = 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": execution is disabled
+srun: error: gcn31: task 0: Exited with exit code 255
+srun: Terminating StepId=20633881.0
